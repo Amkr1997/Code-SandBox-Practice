@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inp {
+  padding: 1rem;
+  font-size: 2rem;
+  width: 80%;
+  text-align: center;
+}
